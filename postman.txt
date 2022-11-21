@@ -1,0 +1,1 @@
+http://amr01-c01-lcm11.amr-bil-ams.svc.c01.k02.k8s.ams06.lab.nordigy.ru:8080/restapi/lifecycle-manager/v1.0/runner/account/1902945001/package/1902945001/runNextEvent
