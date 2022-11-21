@@ -1,0 +1,1 @@
+http://intapi-amrupams.lab.nordigy.ru/restapi/v1.0/rooms-client/account/400153533128/rooms/400153536128/devices
